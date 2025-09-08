@@ -108,6 +108,8 @@ input[type="color"], input[type="date"], input[type="datetime-local"], input[typ
 
 .header .form-control:focus::-webkit-input-placeholder, .footer .form-control:focus::-webkit-input-placeholder { opacity: 0; transition: opacity 0.3s; }
 
+.header .info-items-nav li { margin: 10px 9px; width: 174px; }
+
 .header .info-items-nav li a { position: relative; font-size: 18px; z-index: 1; text-decoration: none; font-family: Metropolis-Bold, sans-serif; }
 
 #next-section-btns li a .icon-box { display: block; width: 85px; height: 85px; border-radius: 50%; background-image: initial; background-position: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: rgb(255, 255, 255); z-index: 2; margin: 0px auto 30px; transition: 0.3s cubic-bezier(0.68, -0.55, 0.27, 1.55); background-size: 50px !important; }
