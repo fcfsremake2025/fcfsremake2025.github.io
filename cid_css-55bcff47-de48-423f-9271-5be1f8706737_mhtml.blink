@@ -1,0 +1,125 @@
+@charset "utf-8";
+
+.codehilite { background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); }
+
+.codehilite .hll { background-color: rgb(255, 255, 204); }
+
+.codehilite .c { color: rgb(153, 153, 136); font-style: italic; }
+
+.codehilite .err { color: rgb(166, 23, 23); background-color: rgb(227, 210, 210); }
+
+.codehilite .k { font-weight: bold; }
+
+.codehilite .o { font-weight: bold; }
+
+.codehilite .cm { color: rgb(153, 153, 136); font-style: italic; }
+
+.codehilite .cp { color: rgb(153, 153, 153); font-weight: bold; }
+
+.codehilite .c1 { color: rgb(153, 153, 136); font-style: italic; }
+
+.codehilite .cs { color: rgb(153, 153, 153); font-weight: bold; font-style: italic; }
+
+.codehilite .gd { color: rgb(0, 0, 0); background-color: rgb(255, 221, 221); }
+
+.codehilite .ge { font-style: italic; }
+
+.codehilite .gr { color: rgb(170, 0, 0); }
+
+.codehilite .gh { color: rgb(153, 153, 153); }
+
+.codehilite .gi { color: rgb(0, 0, 0); background-color: rgb(221, 255, 221); }
+
+.codehilite .go { color: rgb(136, 136, 136); }
+
+.codehilite .gp { color: rgb(85, 85, 85); }
+
+.codehilite .gs { font-weight: bold; }
+
+.codehilite .gu { color: rgb(128, 0, 128); font-weight: bold; }
+
+.codehilite .gt { color: rgb(170, 0, 0); }
+
+.codehilite .kc { font-weight: bold; }
+
+.codehilite .kd { font-weight: bold; }
+
+.codehilite .kn { font-weight: bold; }
+
+.codehilite .kp { font-weight: bold; }
+
+.codehilite .kr { font-weight: bold; }
+
+.codehilite .kt { color: rgb(68, 85, 136); font-weight: bold; }
+
+.codehilite .m { color: rgb(0, 153, 153); }
+
+.codehilite .s { color: rgb(221, 17, 68); }
+
+.codehilite .n { color: rgb(51, 51, 51); }
+
+.codehilite .na { color: teal; }
+
+.codehilite .nb { color: rgb(0, 134, 179); }
+
+.codehilite .nc { color: rgb(68, 85, 136); font-weight: bold; }
+
+.codehilite .no { color: teal; }
+
+.codehilite .ni { color: purple; }
+
+.codehilite .ne { color: rgb(153, 0, 0); font-weight: bold; }
+
+.codehilite .nf { color: rgb(153, 0, 0); font-weight: bold; }
+
+.codehilite .nn { color: rgb(85, 85, 85); }
+
+.codehilite .nt { color: navy; }
+
+.codehilite .nv { color: teal; }
+
+.codehilite .ow { font-weight: bold; }
+
+.codehilite .w { color: rgb(187, 187, 187); }
+
+.codehilite .mf { color: rgb(0, 153, 153); }
+
+.codehilite .mh { color: rgb(0, 153, 153); }
+
+.codehilite .mi { color: rgb(0, 153, 153); }
+
+.codehilite .mo { color: rgb(0, 153, 153); }
+
+.codehilite .sb { color: rgb(221, 17, 68); }
+
+.codehilite .sc { color: rgb(221, 17, 68); }
+
+.codehilite .sd { color: rgb(221, 17, 68); }
+
+.codehilite .s2 { color: rgb(221, 17, 68); }
+
+.codehilite .se { color: rgb(221, 17, 68); }
+
+.codehilite .sh { color: rgb(221, 17, 68); }
+
+.codehilite .si { color: rgb(221, 17, 68); }
+
+.codehilite .sx { color: rgb(221, 17, 68); }
+
+.codehilite .sr { color: rgb(0, 153, 38); }
+
+.codehilite .s1 { color: rgb(221, 17, 68); }
+
+.codehilite .ss { color: rgb(153, 0, 115); }
+
+.codehilite .bp { color: rgb(153, 153, 153); }
+
+.codehilite .vc { color: teal; }
+
+.codehilite .vg { color: teal; }
+
+.codehilite .vi { color: teal; }
+
+.codehilite .il { color: rgb(0, 153, 153); }
+
+.codehilite .gc { color: rgb(153, 153, 153); background-color: rgb(234, 242, 245); }
